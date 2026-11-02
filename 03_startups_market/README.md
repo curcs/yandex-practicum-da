@@ -16,5 +16,8 @@ Python, pandas, NumPy, matplotlib, seaborn
 - Самый быстрорастущий массовый сегмент — `Medical`: +172% финансирования в 2014 году
 - Рекомендация: сегмент `Medical` с `private_equity` как основным типом финансирования
 
+## Статус
+✓ Принят ревьюером Яндекс Практикума
+
 ## Ноутбук
 [startups_market.ipynb](startups_market.ipynb)
